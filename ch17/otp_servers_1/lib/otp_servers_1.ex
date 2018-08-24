@@ -1,18 +1,17 @@
-defmodule OtpServers1 do
-  @moduledoc """
-  Documentation for OtpServers1.
-  """
+defmodule Stack do
 
-  @doc """
-  Hello world.
+  @server Stack.Server
 
-  ## Examples
-
-      iex> OtpServers1.hello
-      :world
-
-  """
-  def hello do
-    :world
+  def start_link(initial_items) do
+    GenServer.start_link(@server, initial_items, name: @server)
   end
+
+  def push(new_items) do
+    GenServer.cast(@server, {:push, new_items})
+  end
+
+  def pop do
+      GenServer.call(@server, :pop)
+  end
+
 end
