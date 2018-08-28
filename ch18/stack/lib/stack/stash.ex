@@ -4,7 +4,8 @@ defmodule Stack.Stash do
   @me __MODULE__
 
   def start_link(initial_number) do
-    GenServer.start_link(__MODULE__, initial_number, name: @me)
+    #GenServer.start_link(__MODULE__, initial_number, name: @me)
+    GenServer.start_link(@me, initial_number, name: @me)
   end
 
   def get() do
