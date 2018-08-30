@@ -1,0 +1,776 @@
+Compiling 1 file (.ex)
+Results:
+
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/.hex",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/.hex"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/README.md",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/README.md"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_cookie.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_cookie.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/metrics/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/metrics/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/metrics/mix.rebar.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_headers.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_headers.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_socks5.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_socks5.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_tcp.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_tcp.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_tcp.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_ssl.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_ssl.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/hex_metadata.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/hex_metadata.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/README.md",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/README.md"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_pool.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_pool.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/ebin/ssl_verify_fingerprint.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/ssl_verify_fun/ebin/ssl_verify_fingerprint.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/parse_trans/mix.rebar.config"]
+["/home/vagrant/programming_elixir/ch18/sequence/.gitignore",
+ "/home/vagrant/programming_elixir/ch17/sequence/.gitignore"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/metrics/ebin/metrics_exometer.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/metrics/ebin/metrics_exometer.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/metrics/ebin/metrics_exometer.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/metrics/ebin/metrics_folsom.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/metrics/ebin/metrics_folsom.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/metrics/ebin/metrics_folsom.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/rebar.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/src/metrics.app.src",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/src/metrics.app.src"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_date.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_date.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_date.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/ebin/parse_trans_codegen.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/ebin/parse_trans_codegen.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/parse_trans/ebin/parse_trans_codegen.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/unicode_util_compat/LICENSE",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/unicode_util_compat/LICENSE"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/src/metrics_exometer.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/src/metrics_exometer.erl"]
+["/home/vagrant/programming_elixir/ch18/stack/_build/dev/lib/stack/consolidated/Elixir.IEx.Info.beam",
+ "/home/vagrant/programming_elixir/ch18/sequence/_build/dev/lib/sequence/consolidated/Elixir.IEx.Info.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/test/lib/duper/consolidated/Elixir.IEx.Info.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/consolidated/Elixir.IEx.Info.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/test/lib/weather/consolidated/Elixir.IEx.Info.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/consolidated/Elixir.IEx.Info.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/consolidated/Elixir.IEx.Info.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/consolidated/Elixir.IEx.Info.beam",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/_build/dev/lib/otp_servers_1/consolidated/Elixir.IEx.Info.beam",
+ "/home/vagrant/programming_elixir/ch17/sequence/_build/dev/lib/sequence/consolidated/Elixir.IEx.Info.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_local_tcp.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_local_tcp.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_local_tcp.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/ex_doc/formatters/html/fonts/icomoon.eot",
+ "/home/vagrant/programming_elixir/ch13/issues/doc/fonts/icomoon.eot"]
+["/home/vagrant/programming_elixir/ch18/stack/_build/dev/lib/stack/consolidated/Elixir.List.Chars.beam",
+ "/home/vagrant/programming_elixir/ch18/sequence/_build/dev/lib/sequence/consolidated/Elixir.List.Chars.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/test/lib/duper/consolidated/Elixir.List.Chars.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/consolidated/Elixir.List.Chars.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/test/lib/weather/consolidated/Elixir.List.Chars.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/consolidated/Elixir.List.Chars.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/consolidated/Elixir.List.Chars.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/consolidated/Elixir.List.Chars.beam",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/_build/dev/lib/otp_servers_1/consolidated/Elixir.List.Chars.beam",
+ "/home/vagrant/programming_elixir/ch17/sequence/_build/dev/lib/sequence/consolidated/Elixir.List.Chars.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_sup.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_sup.erl"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/ebin/mimerl.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/mimerl/ebin/mimerl.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/mimerl/ebin/mimerl.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/MAINTAINERS",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/MAINTAINERS"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/ebin/metrics.app",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/metrics/ebin/metrics.app",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/ebin/metrics.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/metrics/ebin/metrics.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/metrics/ebin/metrics.app"]
+["/home/vagrant/programming_elixir/ch18/stack/lib/stack.ex",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/lib/otp_servers_1.ex"]
+["/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/dir_walker/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/httpoison/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/httpoison/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/earmark/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/httpoison/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/ex_doc/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/.mix/compile.elixir_scm"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/ebin/Elixir.Poison.Encoder.BitString.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/ebin/Elixir.Poison.Encoder.BitString.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_request.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_request.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_request.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_util.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_util.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/.hex",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/.hex"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_local_tcp.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_local_tcp.erl"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/ebin/parse_trans_pp.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/ebin/parse_trans_pp.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/parse_trans/ebin/parse_trans_pp.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/include/hackney.hrl",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/include/hackney.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/include/hackney.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/include/hackney.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/include/hackney.hrl"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/ex_doc/formatters/html/fonts/icomoon.woff",
+ "/home/vagrant/programming_elixir/ch13/issues/doc/fonts/icomoon.woff"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/consolidated/Elixir.Poison.Encoder.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/consolidated/Elixir.Poison.Encoder.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/ex_doc/formatters/html/fonts/icomoon.ttf",
+ "/home/vagrant/programming_elixir/ch13/issues/doc/fonts/icomoon.ttf"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/unicode_util_compat/ebin/unicode_util_compat.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/unicode_util_compat/ebin/unicode_util_compat.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_pool_handler.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_pool_handler.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/certifi/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/certifi/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/certifi/mix.rebar.config"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/ebin/idna.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/idna/ebin/idna.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_util.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_util.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_util.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_bstr.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_bstr.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_bstr.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney.app.src",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney.app.src"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/idna/ebin/punycode.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/idna/ebin/punycode.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/idna/ebin/punycode.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_ssl.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_ssl.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_pool_handler.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_pool_handler.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/ex_doc/formatters/html/dist/app-9bd040e5e5.js",
+ "/home/vagrant/programming_elixir/ch13/issues/doc/dist/app-9bd040e5e5.js"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/rebar.lock",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/rebar.lock",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/metrics/rebar.lock",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/rebar.lock",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/rebar.lock",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/rebar.lock"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_headers.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_headers.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_headers.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/certifi/ebin/certifi.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/certifi/ebin/certifi.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/certifi/ebin/certifi.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/httpoison/lib/httpoison.ex",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/httpoison/lib/httpoison.ex"]
+["/home/vagrant/programming_elixir/ch18/sequence/lib/sequence/impl.ex",
+ "/home/vagrant/programming_elixir/ch17/sequence/lib/sequence/impl.ex"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/include/exprecs.hrl",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/include/exprecs.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/include/exprecs.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/include/exprecs.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/parse_trans/include/exprecs.hrl"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_trace.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_trace.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_trace.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_response.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_response.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/ebin/parse_trans_pp.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/ebin/parse_trans_pp.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_request.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_request.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/ebin/ssl_verify_util.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/ssl_verify_fun/ebin/ssl_verify_util.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/src/idna.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/src/idna.erl"]
+["/home/vagrant/programming_elixir/ch18/stack/test/test_helper.exs",
+ "/home/vagrant/programming_elixir/ch18/sequence/test/test_helper.exs",
+ "/home/vagrant/programming_elixir/ch19/duper/test/test_helper.exs",
+ "/home/vagrant/programming_elixir/ch13/weather/test/test_helper.exs",
+ "/home/vagrant/programming_elixir/ch13/issues/test/test_helper.exs",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/test/test_helper.exs",
+ "/home/vagrant/programming_elixir/ch17/sequence/test/test_helper.exs"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_http.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_http.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_http.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/rebar.config"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_connect.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_connect.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_connect.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_app.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_app.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_sup.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_sup.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/LICENSE",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/LICENSE"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_manager.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_manager.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/src/certifi.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/src/certifi.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/ebin/parse_trans_codegen.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/ebin/parse_trans_codegen.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/src/parse_trans.app.src",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/src/parse_trans.app.src"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/rebar.lock",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/rebar.lock"]
+["/home/vagrant/programming_elixir/ch15/WorkingWithMultipleProcesses-5b.ex",
+ "/home/vagrant/programming_elixir/ch15/WorkingWithMultipleProcesses-5a.ex"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_ssl.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_ssl.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_ssl.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/rebar.config"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/ebin/Elixir.Issues.TableFormatter.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/ebin/Elixir.Issues.TableFormatter.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_url.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_url.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_util.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_util.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/ebin/parse_trans.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/ebin/parse_trans.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/parse_trans/ebin/parse_trans.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/metrics/ebin/metrics_dummy.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/metrics/ebin/metrics_dummy.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/metrics/ebin/metrics_dummy.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/ebin/idna.app",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/idna/ebin/idna.app",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/ebin/idna.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/idna/ebin/idna.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/idna/ebin/idna.app"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_bstr.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_bstr.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/unicode_util_compat/rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/unicode_util_compat/rebar.config"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_headers_new.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_headers_new.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_headers_new.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_response.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_response.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/hex_metadata.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/hex_metadata.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/ebin/punycode.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/idna/ebin/punycode.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_http_connect.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_http_connect.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_http_connect.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/unicode_util_compat/hex_metadata.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/unicode_util_compat/hex_metadata.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_connect.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_connect.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/src/mimerl.app.src",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/src/mimerl.app.src"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_http.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_http.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney.erl"]
+["/home/vagrant/programming_elixir/ch18/stack/.formatter.exs",
+ "/home/vagrant/programming_elixir/ch18/sequence/.formatter.exs",
+ "/home/vagrant/programming_elixir/ch19/duper/.formatter.exs",
+ "/home/vagrant/programming_elixir/ch13/weather/.formatter.exs",
+ "/home/vagrant/programming_elixir/ch13/issues/.formatter.exs",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/.formatter.exs",
+ "/home/vagrant/programming_elixir/ch17/sequence/.formatter.exs"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_multipart.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_multipart.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_multipart.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/src/ct_expand.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/src/ct_expand.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_local_tcp.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_local_tcp.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/rebar.lock",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/rebar.lock"]
+["/home/vagrant/programming_elixir/ch12/fizzbuzz1.ex",
+ "/home/vagrant/programming_elixir/ch12/fizzbuzz.ex"]
+["/home/vagrant/programming_elixir/ch18/stack/_build/dev/lib/stack/consolidated/Elixir.String.Chars.beam",
+ "/home/vagrant/programming_elixir/ch18/sequence/_build/dev/lib/sequence/consolidated/Elixir.String.Chars.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/test/lib/duper/consolidated/Elixir.String.Chars.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/consolidated/Elixir.String.Chars.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/test/lib/weather/consolidated/Elixir.String.Chars.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/consolidated/Elixir.String.Chars.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/consolidated/Elixir.String.Chars.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/consolidated/Elixir.String.Chars.beam",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/_build/dev/lib/otp_servers_1/consolidated/Elixir.String.Chars.beam",
+ "/home/vagrant/programming_elixir/ch17/sequence/_build/dev/lib/sequence/consolidated/Elixir.String.Chars.beam"]
+["/home/vagrant/programming_elixir/ch18/sequence/config/config.exs",
+ "/home/vagrant/programming_elixir/ch17/sequence/config/config.exs"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/.hex",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/.hex"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_connect.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_connect.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/ebin/parse_trans_mod.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/ebin/parse_trans_mod.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/ebin/metrics.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/metrics/ebin/metrics.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_cookie.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_cookie.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_cookie.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/ebin/Elixir.Poison.Encoder.Float.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/ebin/Elixir.Poison.Encoder.Float.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_headers_new.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_headers_new.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/src/ssl_verify_fun.app.src",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/src/ssl_verify_fun.app.src"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/README.md",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/README.md"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_internal.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_internal.hrl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/LICENSE",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/LICENSE"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_date.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_date.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney.app",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney.app",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney.app"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_sup.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_sup.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_sup.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_metrics.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_metrics.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_metrics.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_stream.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_stream.erl"]
+["/home/vagrant/programming_elixir/ch18/stack/lib/stack/impl.ex",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/lib/stack/impl.ex"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/rebar.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/ebin/certifi.app",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/certifi/ebin/certifi.app",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/ebin/certifi.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/certifi/ebin/certifi.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/certifi/ebin/certifi.app"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_url.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_url.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_url.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/unicode_util_compat/src/unicode_util_compat.app.src",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/unicode_util_compat/src/unicode_util_compat.app.src"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/src/metrics_folsom.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/src/metrics_folsom.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/.hex",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/.hex"]
+["/home/vagrant/programming_elixir/ch18/stack/_build/dev/lib/stack/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch18/sequence/_build/dev/lib/sequence/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/test/lib/duper/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/dir_walker/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/test/lib/weather/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/httpoison/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/httpoison/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/earmark/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/httpoison/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/ex_doc/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/_build/dev/lib/otp_servers_1/.mix/compile.xref",
+ "/home/vagrant/programming_elixir/ch17/sequence/_build/dev/lib/sequence/.mix/compile.xref"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/README.md",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/README.md"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/ebin/ssl_verify_util.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/ssl_verify_fun/ebin/ssl_verify_util.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/ssl_verify_fun/ebin/ssl_verify_util.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/hex_metadata.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/hex_metadata.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/README.md",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/README.md"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/ebin/ssl_verify_fingerprint.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/ssl_verify_fun/ebin/ssl_verify_fingerprint.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/ssl_verify_fun/ebin/ssl_verify_fingerprint.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_manager.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_manager.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_manager.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/.hex",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/.hex"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/.hex",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/.hex"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/ebin/Elixir.Issues.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/ebin/Elixir.Issues.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/src/parse_trans_codegen.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/src/parse_trans_codegen.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/src/parse_trans_pp.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/src/parse_trans_pp.erl"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/ex_doc/formatters/html/fonts/icomoon.svg",
+ "/home/vagrant/programming_elixir/ch13/issues/doc/fonts/icomoon.svg"]
+["/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/unicode_util_compat/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/unicode_util_compat/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/unicode_util_compat/mix.rebar.config"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/ebin/Elixir.Poison.Pretty.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/ebin/Elixir.Poison.Pretty.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/idna/ebin/idna.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/idna/ebin/idna.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/idna/ebin/idna.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/hex_metadata.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/hex_metadata.config"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/consolidated/Elixir.Poison.Decoder.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/consolidated/Elixir.Poison.Decoder.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/rebar.config"]
+["/home/vagrant/programming_elixir/ch18/sequence/lib/sequence.ex",
+ "/home/vagrant/programming_elixir/ch17/sequence/lib/sequence.ex"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/README.md",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/README.md"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_trace.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_trace.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_manager.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_manager.erl"]
+["/home/vagrant/programming_elixir/ch19/duper/_build/test/lib/duper/ebin/Elixir.Duper.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/ebin/Elixir.Duper.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_multipart.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_multipart.erl"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/unicode_util_compat/ebin/unicode_util_compat.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/unicode_util_compat/ebin/unicode_util_compat.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/unicode_util_compat/ebin/unicode_util_compat.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/src/metrics_dummy.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/src/metrics_dummy.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_tcp.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_tcp.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/httpoison/LICENSE",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/httpoison/LICENSE"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_metrics.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_metrics.erl"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/ebin/Elixir.Poison.Decode.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/ebin/Elixir.Poison.Decode.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/idna/ebin/idna_ucs.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/idna/ebin/idna_ucs.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/idna/ebin/idna_ucs.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/src/ssl_verify_hostname.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/src/ssl_verify_hostname.erl"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/ebin/Elixir.Issues.GithubIssues.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/ebin/Elixir.Issues.GithubIssues.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/src/exprecs.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/src/exprecs.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_pool.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_pool.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_metrics.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_metrics.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/ebin/Elixir.Issues.CLI.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/ebin/Elixir.Issues.CLI.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/LICENSE",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/LICENSE"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_app.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_app.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/README.md",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/README.md"]
+["/home/vagrant/programming_elixir/ch18/stack/_build/dev/lib/stack/consolidated/Elixir.Collectable.beam",
+ "/home/vagrant/programming_elixir/ch18/sequence/_build/dev/lib/sequence/consolidated/Elixir.Collectable.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/test/lib/duper/consolidated/Elixir.Collectable.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/consolidated/Elixir.Collectable.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/test/lib/weather/consolidated/Elixir.Collectable.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/consolidated/Elixir.Collectable.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/consolidated/Elixir.Collectable.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/consolidated/Elixir.Collectable.beam",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/_build/dev/lib/otp_servers_1/consolidated/Elixir.Collectable.beam",
+ "/home/vagrant/programming_elixir/ch17/sequence/_build/dev/lib/sequence/consolidated/Elixir.Collectable.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/src/certifi.app.src",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/src/certifi.app.src"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/ebin/ssl_verify_fun.app",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/ssl_verify_fun/ebin/ssl_verify_fun.app",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/ebin/ssl_verify_fun.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/ssl_verify_fun/ebin/ssl_verify_fun.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/ssl_verify_fun/ebin/ssl_verify_fun.app"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_headers.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_headers.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_methods.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_methods.hrl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/ebin/certifi.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/certifi/ebin/certifi.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/ebin/ssl_verify_hostname.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/ssl_verify_fun/ebin/ssl_verify_hostname.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/ssl_verify_fun/ebin/ssl_verify_hostname.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/_build/test/lib/weather/ebin/Elixir.Weather.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/ebin/Elixir.Weather.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/mix.rebar.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/rebar.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/Makefile",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/Makefile"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/ebin/parse_trans.app",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/ebin/parse_trans.app",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/ebin/parse_trans.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/ebin/parse_trans.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/parse_trans/ebin/parse_trans.app"]
+["/home/vagrant/programming_elixir/ch18/stack/_build/dev/lib/stack/consolidated/Elixir.Enumerable.beam",
+ "/home/vagrant/programming_elixir/ch18/sequence/_build/dev/lib/sequence/consolidated/Elixir.Enumerable.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/test/lib/duper/consolidated/Elixir.Enumerable.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/consolidated/Elixir.Enumerable.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/test/lib/weather/consolidated/Elixir.Enumerable.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/consolidated/Elixir.Enumerable.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/consolidated/Elixir.Enumerable.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/consolidated/Elixir.Enumerable.beam",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/_build/dev/lib/otp_servers_1/consolidated/Elixir.Enumerable.beam",
+ "/home/vagrant/programming_elixir/ch17/sequence/_build/dev/lib/sequence/consolidated/Elixir.Enumerable.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/test/certifi_tests.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/test/certifi_tests.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/idna/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/idna/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/idna/mix.rebar.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/include/hackney_lib.hrl",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/include/hackney_lib.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/include/hackney_lib.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/include/hackney_lib.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/include/hackney_lib.hrl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_multipart.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_multipart.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/src/ssl_verify_fingerprint.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/src/ssl_verify_fingerprint.erl"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/ebin/Elixir.Poison.Decoder.Any.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/ebin/Elixir.Poison.Decoder.Any.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_app.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_app.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_app.beam"]
+["/home/vagrant/programming_elixir/ch18/sequence/test/sequence_test.exs",
+ "/home/vagrant/programming_elixir/ch17/sequence/test/sequence_test.exs"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_pool.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_pool.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_pool.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/include/codegen.hrl",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/include/codegen.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/include/codegen.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/include/codegen.hrl",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/parse_trans/include/codegen.hrl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/LICENSE",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/LICENSE"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/src/mimerl.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/src/mimerl.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/hex_metadata.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/hex_metadata.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_trace.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_trace.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/ex_doc/formatters/html/dist/app-480ffdc169.css",
+ "/home/vagrant/programming_elixir/ch13/issues/doc/dist/app-480ffdc169.css"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_http.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_http.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/ebin/mimerl.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/mimerl/ebin/mimerl.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_tcp.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_tcp.erl"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/ebin/Elixir.Poison.Encode.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/ebin/Elixir.Poison.Encode.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/rebar.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/ebin/metrics_exometer.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/metrics/ebin/metrics_exometer.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/src/parse_trans.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/src/parse_trans.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/LICENSE",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/LICENSE"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/hex_metadata.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/hex_metadata.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/src/ssl_verify_pk.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/src/ssl_verify_pk.erl"]
+["/home/vagrant/programming_elixir/ch18/stack/_build/dev/lib/stack/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch18/sequence/_build/dev/lib/sequence/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/test/lib/duper/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/test/lib/weather/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/_build/dev/lib/otp_servers_1/.mix/compile.elixir_scm",
+ "/home/vagrant/programming_elixir/ch17/sequence/_build/dev/lib/sequence/.mix/compile.elixir_scm"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/ebin/idna_ucs.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/idna/ebin/idna_ucs.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/src/idna_ucs.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/src/idna_ucs.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/unicode_util_compat/ebin/unicode_util_compat.app",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/unicode_util_compat/ebin/unicode_util_compat.app",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/unicode_util_compat/ebin/unicode_util_compat.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/unicode_util_compat/ebin/unicode_util_compat.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/unicode_util_compat/ebin/unicode_util_compat.app"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/metrics/ebin/metrics.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/metrics/ebin/metrics.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/metrics/ebin/metrics.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/src/idna.app.src",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/src/idna.app.src"]
+["/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/mimerl/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/mimerl/mix.rebar.config",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/mimerl/mix.rebar.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/hex_metadata.config",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/hex_metadata.config"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_request.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_request.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/src/parse_trans_mod.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/src/parse_trans_mod.erl"]
+["/home/vagrant/programming_elixir/ch19/duper/deps/dir_walker/.fetch",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/dir_walker/.mix/compile.lock",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/dir_walker/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/.mix/compile.lock",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/certifi/.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/idna/.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/hackney/.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/httpoison/.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/metrics/.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/unicode_util_compat/.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/certifi/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/idna/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/mimerl/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/.mix/compile.lock",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/httpoison/.mix/compile.lock",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/httpoison/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/metrics/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/unicode_util_compat/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/ssl_verify_fun/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/earmark/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/httpoison/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ex_doc/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/poison/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/unicode_util_compat/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/certifi/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/idna/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/mimerl/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/httpoison/.mix/compile.lock",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/httpoison/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/.mix/compile.lock",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/metrics/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/.mix/compile.lock",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/unicode_util_compat/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/ssl_verify_fun/.mix/compile.fetch",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/certifi/.mix/compile.fetch",
+ ...]
+["/home/vagrant/programming_elixir/ch18/sequence/README.md",
+ "/home/vagrant/programming_elixir/ch17/sequence/README.md"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_socks5.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_socks5.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_socks5.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_http_connect.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_http_connect.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/ebin/poison.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/ebin/poison.app"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/LICENSE",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/LICENSE"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/.hex",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/.hex"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/src/mimerl.erl.src",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/src/mimerl.erl.src"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_stream.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_stream.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_stream.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_socks5.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_socks5.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/ebin/ct_expand.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/ebin/ct_expand.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/ebin/exprecs.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/ebin/exprecs.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/ebin/Elixir.Poison.Encoder.Atom.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/ebin/Elixir.Poison.Encoder.Atom.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/parse_trans/ebin/parse_trans.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/parse_trans/ebin/parse_trans.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/mimerl/ebin/mimerl.app",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/mimerl/ebin/mimerl.app",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/mimerl/ebin/mimerl.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/mimerl/ebin/mimerl.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/mimerl/ebin/mimerl.app"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/idna/src/punycode.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/idna/src/punycode.erl"]
+["/home/vagrant/programming_elixir/ch18/stack/_build/dev/lib/stack/.mix/compile.protocols",
+ "/home/vagrant/programming_elixir/ch18/sequence/_build/dev/lib/sequence/.mix/compile.protocols",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/test/lib/duper/.mix/compile.protocols",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/.mix/compile.protocols",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/test/lib/weather/.mix/compile.protocols",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/.mix/compile.protocols",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/.mix/compile.protocols",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/.mix/compile.protocols",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/_build/dev/lib/otp_servers_1/.mix/compile.protocols",
+ "/home/vagrant/programming_elixir/ch17/sequence/_build/dev/lib/sequence/.mix/compile.protocols"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_cookie.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_cookie.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_stream.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_stream.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/src/metrics.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/src/metrics.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/unicode_util_compat/.hex",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/unicode_util_compat/.hex"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_bstr.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_bstr.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/ebin/parse_trans_mod.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/ebin/parse_trans_mod.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/parse_trans/ebin/parse_trans_mod.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/ebin/ssl_verify_hostname.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/ssl_verify_fun/ebin/ssl_verify_hostname.beam"]
+["/home/vagrant/programming_elixir/ch18/stack/_build/dev/lib/stack/consolidated/Elixir.Inspect.beam",
+ "/home/vagrant/programming_elixir/ch18/sequence/_build/dev/lib/sequence/consolidated/Elixir.Inspect.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/test/lib/duper/consolidated/Elixir.Inspect.beam",
+ "/home/vagrant/programming_elixir/ch19/duper/_build/dev/lib/duper/consolidated/Elixir.Inspect.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/test/lib/weather/consolidated/Elixir.Inspect.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/weather/consolidated/Elixir.Inspect.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/issues/consolidated/Elixir.Inspect.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/issues/consolidated/Elixir.Inspect.beam",
+ "/home/vagrant/programming_elixir/ch17/otp_servers_1/_build/dev/lib/otp_servers_1/consolidated/Elixir.Inspect.beam",
+ "/home/vagrant/programming_elixir/ch17/sequence/_build/dev/lib/sequence/consolidated/Elixir.Inspect.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_pool_handler.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_pool_handler.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_pool_handler.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/ebin/metrics_folsom.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/metrics/ebin/metrics_folsom.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/ebin/ct_expand.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/ebin/ct_expand.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/parse_trans/ebin/ct_expand.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/ebin/metrics_dummy.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/metrics/ebin/metrics_dummy.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/ebin/ssl_verify_pk.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/ssl_verify_fun/ebin/ssl_verify_pk.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/ssl_verify_fun/ebin/ssl_verify_pk.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/src/ssl_verify_util.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/ssl_verify_fun/src/ssl_verify_util.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/ssl_verify_fun/ebin/ssl_verify_pk.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/ssl_verify_fun/ebin/ssl_verify_pk.beam"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/parse_trans/ebin/exprecs.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/parse_trans/ebin/exprecs.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/parse_trans/ebin/exprecs.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/ebin/hackney_date.beam",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/hackney/ebin/hackney_date.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/NEWS.md",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/NEWS.md"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_http_connect.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_http_connect.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/unicode_util_compat/src/unicode_util_compat.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/unicode_util_compat/src/unicode_util_compat.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/unicode_util_compat/README.md",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/unicode_util_compat/README.md"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/httpoison/ebin/httpoison.app",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/httpoison/ebin/httpoison.app"]
+["/home/vagrant/programming_elixir/ch13/issues/deps/hackney/ebin/hackney_response.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/hackney/ebin/hackney_response.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/hackney/ebin/hackney_response.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/metrics/LICENSE",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/metrics/LICENSE"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_headers_new.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_headers_new.erl"]
+["/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/poison/ebin/Elixir.Poison.Encoder.Integer.beam",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/poison/ebin/Elixir.Poison.Encoder.Integer.beam"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/certifi/priv/cacerts.pem",
+ "/home/vagrant/programming_elixir/ch13/weather/_build/dev/lib/certifi/priv/cacerts.pem",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/certifi/priv/cacerts.pem",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/test/lib/certifi/priv/cacerts.pem",
+ "/home/vagrant/programming_elixir/ch13/issues/_build/dev/lib/certifi/priv/cacerts.pem"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/src/hackney_url.erl",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/src/hackney_url.erl"]
+["/home/vagrant/programming_elixir/ch13/weather/deps/hackney/NOTICE",
+ "/home/vagrant/programming_elixir/ch13/issues/deps/hackney/NOTICE"]
