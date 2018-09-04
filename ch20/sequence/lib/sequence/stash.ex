@@ -11,8 +11,8 @@ defmodule Sequence.Stash do
     GenServer.call(@me, { :get })
   end
 
-  def update(new_number) do
-    GenServer.cast(@me, { :update, new_number })
+  def update(new_number, delta) do
+    GenServer.cast(@me, { :update, {new_number, delta} })
   end
 
   # Server implementation
@@ -25,8 +25,8 @@ defmodule Sequence.Stash do
     { :reply, current_number, current_number }
   end
 
-  def handle_cast({ :update, new_number }, _current_number) do
-    { :noreply, new_number }
+  def handle_cast({ :update, {new_number, delta} }, {_current_number, _delta}) do
+    { :noreply, {new_number, delta} }
   end
 
 end

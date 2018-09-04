@@ -10,7 +10,7 @@ defmodule Sequence.Server do
   use GenServer
   require Logger
 
-  @vsn "1"
+  @vsn "2"
 
   defmodule State do
     defstruct(current_number: 0, delta: 1)
@@ -48,8 +48,8 @@ defmodule Sequence.Server do
     { :noreply, %{state | delta: delta} }
   end
 
-  def terminate(_reason, current_number) do
-    Sequence.Stash.update(current_number)
+  def terminate(_reason, {current_number, delta}) do
+    Sequence.Stash.update({current_number, delta})
   end
 
   def format_status(_reason, [ _pdict, state ]) do
